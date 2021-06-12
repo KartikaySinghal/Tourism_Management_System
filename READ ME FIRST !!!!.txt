@@ -8,7 +8,7 @@ Password : demo
 Username : tony
 Password : tony
 
-- Developed By Ankan Das
+- Developed By Kartikay Singhal
 
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
 
